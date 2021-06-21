@@ -1,0 +1,2 @@
+# .github
+Shared GitHub templates
